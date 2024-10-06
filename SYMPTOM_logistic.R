@@ -1,4 +1,4 @@
-###LST AND SYMPTOMS
+###LST AND SYMPTOMS 
 model1 <- glm(fhapp~blsts+age0+sex+edu+income+ethnic+whr0+nosmoking+drinkingM+sleeph+regular+dieth+htnp+dmp+cadp,family='binomial', dataset)
 summary(model1)
 model1 <- glm(fhh~blsts+age0+sex+edu+income+ethnic+whr0+nosmoking+drinkingM+sleeph+regular+dieth+htnp+dmp+cadp,family='binomial', dataset)
