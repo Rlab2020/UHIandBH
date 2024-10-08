@@ -28,9 +28,9 @@ SEM was utilized to investigate the significance of the pathways from UHII and n
 DEMORGRAPHIC FACTORS
 age: categorical variable (<60/≥60);
 sex: categorical variable (male/female);
-edu:categorical variable (low/high);
-income:categorical variable (low/high);
-ethnic:categorical variable (low/high);
+edu: categorical variable (low/high);
+income: categorical variable (low/high);
+ethnic: categorical variable (low/high);
 whr: categorical variable (poor/ideal);
 
 HEALTHY LIFESTYLE FACTORS
