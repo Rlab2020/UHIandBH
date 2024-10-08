@@ -48,3 +48,4 @@ fit <- sem(mymodel, data=newdata1, ordered = c("md"), std.lv=T)
 summary(fit, fit.measures=TRUE)
 
 
+##the SEM was fitted for substance use disorder, depressive disorder, and anxiety disorder, respectively.
