@@ -1,7 +1,7 @@
 ##blst = baseline summer normalized LST as continious exposure
 ##buhii = baseline summer normalized UHII as continious exposure
 ##wm_md_tfma = tract forceps major
-##
+##the secondary outcome included 30 WM microstructure as follows: c
 
 
 ###LST AND WM
