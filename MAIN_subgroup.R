@@ -4,6 +4,13 @@
 ##blstc = baseline summer normalized LST as categorial exposure
 ##buhii = baseline summer normalized UHII as continious exposure
 ##buhiic = baseline summer normalized UHII as categorial exposure
+##start = start from each year
+##stop = end of each year
+##event = mental disorder (1 or 0)
+##lst = summer normalized LST in the respective year as continious exposure
+##lstc = summer normalized LST in the respective year as categorial exposure
+##uhii = summer normalized UHII in the respective year as continious exposure
+##uhiic = summer normalized UHII in the respective year as categorial exposure
 
 library(survival)
 library(survminer)
