@@ -30,5 +30,5 @@ model7 <- coxph(Surv(md_time,md)~buhii+age+sex+edu+income+ethnic+whr+nosmoking+d
 model8 <- coxph(Surv(md_time,md)~buhiic+age+sex+edu+income+ethnic+whr+nosmoking+drinkingM+sleeph+regular+dieth+htnp+dmp+cadp,dataset)
 
 
-The associations of UHI and substance use disorder, depressive disorder, and anxiety disorder were also obtained by running the above code, respectively.
+##The associations of UHI and substance use disorder, depressive disorder, and anxiety disorder were also obtained by running the above code, respectively.
 
