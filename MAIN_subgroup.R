@@ -305,4 +305,4 @@ model12<-coxph(Surv(start, stop, event)~uhii*relevel(cadp, ref='no')+age0+sex+ed
 model11<-coxph(Surv(start, stop, event)~uhiic*relevel(cadp, ref='yes')+age0+sex+edu+income+ethnic+whr0+nosmoking+drinkingM+sleeph+regular+dieth+htnp+dmp+cadp,data_md)
 model12<-coxph(Surv(start, stop, event)~uhiic*relevel(cadp, ref='no')+age0+sex+edu+income+ethnic+whr0+nosmoking+drinkingM+sleeph+regular+dieth+htnp+dmp+cadp,data_md)
 
- 
+##The subgroup analyses for substance use disorder, depressive disorder, and anxiety disorder were also run through the above code, respectively. 
