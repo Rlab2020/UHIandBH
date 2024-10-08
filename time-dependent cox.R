@@ -1,10 +1,10 @@
 ##start = start from each year
 ##stop = end of each year
 ##event = mental disorder (1 or 0)
-##lst = summer normalized LST as continious exposure
-##lstc = summer normalized LST as categorial exposure
-##uhii = summer normalized UHII as continious exposure
-##uhiic = summer normalized UHII as categorial exposure
+##lst = summer normalized LST in the respective year as continious exposure
+##lstc = summer normalized LST in the respective year as categorial exposure
+##uhii = summer normalized UHII in the respective year as continious exposure
+##uhiic = summer normalized UHII in the respective year as categorial exposure
 
 
 library(survival)
