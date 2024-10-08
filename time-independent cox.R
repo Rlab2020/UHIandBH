@@ -3,7 +3,7 @@
 ##blst = baseline summer normalized LST as continious exposure
 ##blstc = baseline summer normalized LST as categorial exposure
 ##buhii = baseline summer normalized UHII as continious exposure
-##buhii = baseline summer normalized UHII as categorial exposure
+##buhiic = baseline summer normalized UHII as categorial exposure
  
 
 library(survival)
