@@ -1,5 +1,21 @@
-
-
+##blst = baseline summer normalized LST as continious exposure
+##buhii = baseline summer normalized UHII as continious exposure
+##md = mental disorder
+##fhapp = General happy
+##fhh = Happiness with own health
+#flife = Belief that own life is meaningful
+##finad = Recent feelings of inadequacy
+##ftired = Recent feelings of tiredness or low energy
+##fdepr = Recent feelings of depression
+##fconc = Recent trouble concentrating on things
+##fappe = Recent poor appetite or overeating
+##finte = Recent lack of interest or pleasure in doing things
+##fwor = Recent inability to stop or control worrying
+##frelax = Recent trouble relaxing
+##fann = Recent easy annoyance or irritability
+##fworr = Recent worrying too much about different things
+##ffore = Recent feelings of foreboding
+##fnerv = Recent feelings or nervousness or anxiety
 
 library(lavaan)
 
