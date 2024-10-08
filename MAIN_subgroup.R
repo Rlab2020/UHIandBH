@@ -1,3 +1,10 @@
+##md_time = follow-up period
+##md = mental disorder (1 or 0)
+##blst = baseline summer normalized LST as continious exposure
+##blstc = baseline summer normalized LST as categorial exposure
+##buhii = baseline summer normalized UHII as continious exposure
+##buhiic = baseline summer normalized UHII as categorial exposure
+
 library(survival)
 library(survminer)
 
