@@ -14,3 +14,4 @@ model1 <- glm(fhapp~blst+age+sex+edu+income+ethnic+whr+nosmoking+drinkingM+sleep
 ###UHII AND SYMPTOMS
 model2 <- glm(fhapp~buhii+age+sex+edu+income+ethnic+whr+nosmoking+drinkingM+sleeph+regular+dieth+htnp+dmp+cadp,family='binomial', dataset)
 
+##The associations of UHI and other psychiatric symptoms were also obtained by running the above code, respectively.
